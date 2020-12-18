@@ -1,3 +1,5 @@
+# Cite this code repository if you are using, as follows 
+Ferdin Joe John Joseph, Deepali Nayak, Salinla Chevakidagarn, "Local Maxima Niching Genetic Algorithm Based Automated Water Quality Management System for Betta splendens", TNI Journal of Engineering and Technology, Vol:8, No:2, 2020, 1-20.
 # Water-Quality-Management
 Digital Pins
 PMS5003 ---- D2
